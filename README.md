@@ -7,7 +7,7 @@ I'm Phoebe, a computer science student studying in London.
 
 - Interested in connecting?
 
-  Reach out to me on [Linkedin](https://www.linkedin.com/in/pholee) or drop me an [email](mailto:pholee05@gmail.com).
+  Reach out to me on [Linkedin](https://www.linkedin.com/in/pholee) or drop me an [email](mailto:pholee18@gmail.com).
 
 ---
 
