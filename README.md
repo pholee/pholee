@@ -1,7 +1,7 @@
 ## Hi there :-)
 I'm Phoebe, a computer science student studying in London.
 
-- Check out my [portfolio website](https://www.google.com) !
+- Check out my [portfolio website](https://pholee.github.io/phoebelee)) !
 
   It's a work in progress but there's some stuff up there.
 
